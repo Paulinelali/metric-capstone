@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/metric-capstone/static/css/main.c0df6b29.css",
+    "main.js": "/metric-capstone/static/js/main.2078592a.js",
+    "index.html": "/metric-capstone/index.html",
+    "main.c0df6b29.css.map": "/metric-capstone/static/css/main.c0df6b29.css.map",
+    "main.2078592a.js.map": "/metric-capstone/static/js/main.2078592a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0df6b29.css",
+    "static/js/main.2078592a.js"
+  ]
+}
