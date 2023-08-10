@@ -70,7 +70,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- N/A
+  [Live demo](https://react-stock-meric.onrender.com/)
+  
+  [Video presentation](https://www.loom.com/share/a9a9ebe73fd5496bae9628b1eb882ab2?sid=a804fb70-10ee-4834-a65e-04d6e90a3fb6)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
